@@ -13,11 +13,11 @@
     Link="/Content/DropDowns.htm" />
   <TocEntry
     Title="Links and Lists"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm"
+    Link="/Content/LinksAndLists.htm"
     StartSection="false">
     <TocEntry
       Title="Links"
-      Link="/Content/B_Links and Lists/Links.htm" />
+      Link="/Content/Links.htm" />
     <TocEntry
       Title="Lists"
       Link="/Content/B_Links and Lists/Lists.htm" />
