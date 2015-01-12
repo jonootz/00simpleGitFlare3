@@ -4,13 +4,13 @@
   conditions="">
   <TocEntry
     Title="Welcome"
-    Link="/Content/A_Introduction Topics/Welcome.htm" />
+    Link="/Content/Welcome.htm" />
   <TocEntry
     Title="Headings"
-    Link="/Content/A_Introduction Topics/Headings.htm" />
+    Link="/Content/Headings.htm" />
   <TocEntry
     Title="Drop-Downs"
-    Link="/Content/A_Introduction Topics/DropDowns.htm" />
+    Link="/Content/DropDowns.htm" />
   <TocEntry
     Title="Links and Lists"
     Link="/Content/B_Links and Lists/LinksAndLists.htm"

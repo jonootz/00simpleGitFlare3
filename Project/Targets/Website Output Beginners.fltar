@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="HTML5 Output"
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  DefaultUrl="/Content/A_Introduction Topics/Welcome.htm"
+  DefaultUrl="/Content/Welcome.htm"
   ConditionTagExpression="include[General.Beginner]exclude[General.Advanced]"
   InsertMOTW="true"
   MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
@@ -13,5 +13,4 @@
   EnableSitemap="false"
   IncludeStopWords="true"
   GenerateWebSafeImages="true"
-  WebSafeFileExtension="png">
-</CatapultTarget>
+  WebSafeFileExtension="png"></CatapultTarget>
